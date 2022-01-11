@@ -78,6 +78,7 @@ public class SampleActivity extends AppCompatActivity
                 Manifest.permission.READ_EXTERNAL_STORAGE)) {
             preLoadAlbums();
         }
+	//Log.e("tgl===","test commit permission!");
     }
 
     /**
